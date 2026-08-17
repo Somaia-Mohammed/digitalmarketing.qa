@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://smdigitalmarketing.github.io/sitemap.xml
